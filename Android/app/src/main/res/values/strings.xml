@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HeatMap</string>
+    <string name="progress">Progress:</string>
+    <string name="value_test">100%</string>
+</resources>
